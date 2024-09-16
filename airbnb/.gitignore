@@ -1,0 +1,23 @@
+
+target/
+dbt_packages/
+logs/
+
+
+# Logs folder
+logs/
+
+# DBT cache and profile info
+.dbt/
+
+.env
+
+venv/
+.env/
+
+# Ignore files for any specific IDE
+.idea/
+.vscode/
+
+# Ignore Jupyter Notebooks checkpoints (if applicable)
+.ipynb_checkpoints/
